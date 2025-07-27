@@ -126,4 +126,4 @@ In this project, we successfullty implemented a VHDL solution for digital Lock w
   
   ### Contact:
 * Mail : gokulvenki2005@gmail.com
-* Linked-in profile: https://www.linkedin.com/in/mohamed-amine-ben-abdeljelil-86a41a1a9/
+* Linked-in profile: https://www.linkedin.com/in/gokul-v-352377324?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
